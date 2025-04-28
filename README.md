@@ -2,6 +2,6 @@ Improvement:
 
 - Parallelism.
 
-Notes:
+Note:
 
 - Tag transformation is removed.
