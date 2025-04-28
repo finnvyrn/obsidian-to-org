@@ -1,7 +1,5 @@
-Improvement:
-
-- Parallelism.
-
-Note:
-
-- Tag transformation is removed.
+- Usage: `src/obsidian_to_org/__main__.py <obsidian_dir> <org_dir>`
+- Improvement:
+    - Parallelism.
+- Note:
+    - Tag transformation is removed.
